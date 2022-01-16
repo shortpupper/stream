@@ -1,3 +1,2 @@
-# stream
-code on stream
-[youtube.com]
+# stream code
+this is just code
